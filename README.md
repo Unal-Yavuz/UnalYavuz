@@ -1,5 +1,5 @@
 # About Me:
-👨‍💻 I'm learning software<br>🆘 I'm looking for help with coding
+👨‍💻 I'm learning software<br>🆘 I'm learning every day forever and i love coding
 
 
 ## 🌐 Socials:
