@@ -3,4 +3,4 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ünalyavuz) [![Twitter](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png)](https://twitter.com/unl_yvz_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ünalyavuz) [![Twitter]((https://img.shields.io/badge/Twitter-%23E4405F.svg?logo=Twitter&logoColor=white)](https://twitter.com/unl_yvz_)
